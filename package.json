@@ -5,6 +5,7 @@
   "author": "Devoto",
   "license": "MIT",
   "scripts": {
+    "start": "react-scripts start",
     "serve": "live-server public",
     "build": "webpack",
     "dev": "webpack-dev-server"
